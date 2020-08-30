@@ -15,3 +15,4 @@ Te permite escoger módulos de tu necesidad de entre una amplia gama
 6. Tiene un procesacmiento de software complejo simplificado
 7. Adapta el procesamiento de pruebas
 Puedes usar Python para crear un prototipo de software rápidamente
+Obtenido de: https://medium.com/@mindfiresolutions.usa/python-7-important-reasons-why-you-should-use-python-5801a98a0d0b
